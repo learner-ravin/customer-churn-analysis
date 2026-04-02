@@ -1,5 +1,7 @@
 # Telecom Customer Churn Analysis
 
+**Project Overview**
+- This project focuses on analyzing customer churn in a telecom company using Python. The goal is to identify key factors driving churn, understand high-risk customer segments, and provide actionable business recommendations to improve customer retention.
 
 
 
