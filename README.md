@@ -1,22 +1,37 @@
+<img width="557" height="208" alt="skyAir_logo" src="https://github.com/user-attachments/assets/cacf9754-9ac4-4bdc-bc78-375c0c84e382" />
+
 # Telecom Customer Churn Analysis
 
-### Project Overview
-- This project focuses on analyzing customer churn in a telecom company using Python. The goal is to identify key factors driving churn, understand high-risk customer segments, and provide actionable business recommendations to improve customer retention.
+## Introduction
+SkyAir Telecom is a telecommunications company that provides mobile network, broadband internet, and digital services across the United States. Over the years, the company has experienced increasing competition in the telecom industry, leading to a rising customer churn rate, higher customer acquisition costs, and growing concerns about customer retention.
 
-### Business Question
-- Why are customers leaving This Telecom Company? Which customers segments are most at risk of churn, and what actions can the company take to reduce it.
+To better understand these challenges, the company hired a Data Analyst to examine customer demographics, subscribed services, contract types, billing methods, and monthly charges in order to identify the key factors contributing to customer churn.
 
-### About Dataset
-##### The dataset contains customer-level information including:
+## Project Overview
+This project analyzes customer demographics, subscribed services, contract types, billing methods, and monthly charges to identify the key factors contributing to customer churn.
+
+## Objective
+The objective of this project is to analyze customer churn data from SkyAir Telecom, identify the key factors driving customer churn, understand high-risk customer segments, and provide actionable business recommendations to improve customer retention.
+
+### Business Questions
+- What factors influence customer churn?
+- Which customer segments are most at risk of churn?
+- How do services, contracts, and billing methods affect churn behavior?
+- What strategies can help improve customer retention?
+
+---
+
+## Dataset Information
+The dataset contains customer-level information, including:
 
 - Demographics (gender, senior citizen, dependents)
-- Services subscribed (internet, security, tech support, etc.)
+- Services subscribed (internet service, online security, tech support, etc.)
 - Account details (contract type, tenure)
-- Billing information (monthly & total charges, payment method)
-- Churn status (Yes/No)
+- Billing information (monthly charges, total charges, payment methods)
+- Customer churn status (Yes/No)
 
 ### Tools Used
-- Python (Pandas, NumPy, Matplotlib, Seaborn) for data cleaning, Exploratory Data analysis (EDA), and visualization
+- Python (Pandas, NumPy, Matplotlib, Seaborn) for Data Cleaning, Exploratory Data analysis (EDA), and Visualization
 - Jupyter Notebook
 - MySQL for data querying and structured analysis
 - Power BI for interactive dashboards and visual insights
@@ -28,6 +43,17 @@
 4. Exploratory Data Analysis
 5. Churn Rate Analysis by Segments
 6. Final Insights and Recommendataions
+
+---
+
+
+
+
+
+
+
+
+
 
 ---
 ## Summary and Final Insights
@@ -126,4 +152,15 @@
     Senior customers have higher churn (~41%).
     We can provide dedicated support, simple billing, and technical help for them.
 
+
+# Repository Structure
+
+```bash
+├── data/
+├── notebooks/
+├── sql_queries/
+├── dashboard/
+├── images/
+└── README.md
+```
 
