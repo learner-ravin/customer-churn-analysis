@@ -47,11 +47,11 @@ The dataset contains customer-level information for SkyAir Telecom customers, in
 6. Final Insights and Recommendataions
 
 ---
-## Dashboard Preview
+### Dashboard Preview 
 <img src="images/dashboard_1.png" alt="Dashboard Image" />
 
 ---
-
+### Notebook Preview 
 <img src="images/notebook_1.png" alt="Notebook Imagae" />
 
 ---
