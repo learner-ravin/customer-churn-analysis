@@ -1,4 +1,6 @@
-<img width="130" height="50" alt="skyAir_logo" src="https://github.com/user-attachments/assets/cacf9754-9ac4-4bdc-bc78-375c0c84e382" />
+<p align="center">
+  <img src="images/SkyNet_logo.png" width="130" height="50" alt="SkyAir_logo" />
+</p>
 
 # Telecom Customer Churn Analysis
 
