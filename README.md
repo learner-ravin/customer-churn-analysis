@@ -1,17 +1,14 @@
-<img width="557" height="208" alt="skyAir_logo" src="https://github.com/user-attachments/assets/cacf9754-9ac4-4bdc-bc78-375c0c84e382" />
+<img width="130" height="50" alt="skyAir_logo" src="https://github.com/user-attachments/assets/cacf9754-9ac4-4bdc-bc78-375c0c84e382" />
 
 # Telecom Customer Churn Analysis
 
-## Introduction
-SkyAir Telecom is a telecommunications company that provides mobile network, broadband internet, and digital services across the United States. Over the years, the company has experienced increasing competition in the telecom industry, leading to a rising customer churn rate, higher customer acquisition costs, and growing concerns about customer retention.
-
-To better understand these challenges, the company hired a Data Analyst to examine customer demographics, subscribed services, contract types, billing methods, and monthly charges in order to identify the key factors contributing to customer churn.
-
-## Project Overview
-This project analyzes customer demographics, subscribed services, contract types, billing methods, and monthly charges to identify the key factors contributing to customer churn.
-
 ## Objective
 The objective of this project is to analyze customer churn data from SkyAir Telecom, identify the key factors driving customer churn, understand high-risk customer segments, and provide actionable business recommendations to improve customer retention.
+
+## Project Background
+SkyAir Telecom is a telecommunications company that provides mobile network, broadband internet, and digital services. across the United States. Over the years, the company has experienced increasing competition in the telecom industry, leading to a rising customer churn rate.
+
+To better understand these challenges, the company hired a Data Analyst to examine customer demographics, subscribed services, contract types, billing methods, and monthly charges in order to identify the key factors contributing to customer churn.
 
 ### Business Questions
 - What factors influence customer churn?
@@ -22,13 +19,18 @@ The objective of this project is to analyze customer churn data from SkyAir Tele
 ---
 
 ## Dataset Information
-The dataset contains customer-level information, including:
-
+The dataset contains customer-level information for SkyAir Telecom customers, including- 
 - Demographics (gender, senior citizen, dependents)
 - Services subscribed (internet service, online security, tech support, etc.)
 - Account details (contract type, tenure)
 - Billing information (monthly charges, total charges, payment methods)
 - Customer churn status (Yes/No)
+
+### Featured Notebooks/Deliverables
+- notebook
+-  dasbhoard
+
+
 
 ### Tools Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn) for Data Cleaning, Exploratory Data analysis (EDA), and Visualization
@@ -45,7 +47,7 @@ The dataset contains customer-level information, including:
 6. Final Insights and Recommendataions
 
 ---
-
+## Dashboard Preview
 
 
 
@@ -58,7 +60,7 @@ The dataset contains customer-level information, including:
 ---
 ## Summary and Final Insights
 
-### KEY NUMBERS
+#### KEY NUMBERS
 
 - **Total Customers:** 7,043  
 - **Churned Customers:** 1,869 (**26.54%**)  
@@ -163,4 +165,3 @@ The dataset contains customer-level information, including:
 ├── images/
 └── README.md
 ```
-
