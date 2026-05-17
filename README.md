@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/SkyNet_logo.png" width="250" alt="SkyAir_logo" />
+  <img src="images/SkyNet_logo.png" width="250" alt="SkyAir Logo" />
 </p>
 
 # Telecom Customer Churn Analysis
@@ -48,11 +48,11 @@ The dataset contains customer-level information for SkyAir Telecom customers, in
 
 ---
 ## Dashboard Preview
-<img src="images/dashboard_1.png" width="250" alt="SkyAir_logo" />
+<img src="images/dashboard_1.png" alt="Dashboard Image" />
 
 ---
 
-<img src="images/notebook_1.png" width="250" alt="SkyAir_logo" />
+<img src="images/notebook_1.png" alt="Notebook Imagae" />
 
 ---
 ## Summary and Final Insights
