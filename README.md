@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/SkyNet_logo.png" width="130" height="50" alt="SkyAir_logo" />
+  <img src="images/SkyNet_logo.png" width="250" alt="SkyAir_logo" />
 </p>
 
 # Telecom Customer Churn Analysis
@@ -29,10 +29,8 @@ The dataset contains customer-level information for SkyAir Telecom customers, in
 - Customer churn status (Yes/No)
 
 ### Featured Notebooks/Deliverables
-- notebook
--  dasbhoard
-
-
+- [Notebook](notebooks/telc-customer-churn.ipynb)
+- [Dashboard](dashboards/customer-churn-analysis.pbix)
 
 ### Tools Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn) for Data Cleaning, Exploratory Data analysis (EDA), and Visualization
@@ -50,14 +48,11 @@ The dataset contains customer-level information for SkyAir Telecom customers, in
 
 ---
 ## Dashboard Preview
+<img src="images/dashboard_1.png" width="250" alt="SkyAir_logo" />
 
+---
 
-
-
-
-
-
-
+<img src="images/notebook_1.png" width="250" alt="SkyAir_logo" />
 
 ---
 ## Summary and Final Insights
