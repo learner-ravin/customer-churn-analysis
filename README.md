@@ -5,7 +5,7 @@
 # Telecom Customer Churn Analysis
 
 ## Objective
-The objective of this project is to analyze customer churn data from SkyAir Telecom, identify the key factors driving customer churn, understand high-risk customer segments, and provide actionable business recommendations to improve customer retention.
+_The objective of this project is to analyze customer churn data from SkyAir Telecom, identify the key factors driving customer churn, understand high-risk customer segments, and provide actionable business recommendations to improve customer retention._
 
 ## Project Background
 SkyAir Telecom is a telecommunications company that provides mobile network, broadband internet, and digital services. across the United States. Over the years, the company has experienced increasing competition in the telecom industry, leading to a rising customer churn rate.
@@ -28,7 +28,7 @@ The dataset contains customer-level information for SkyAir Telecom customers, in
 - Billing information (monthly charges, total charges, payment methods)
 - Customer churn status (Yes/No)
 
-### Featured Notebooks/Deliverables
+### Featured Notebooks/Dashboards
 - [Notebook](notebooks/telc-customer-churn.ipynb)
 - [Dashboard](dashboards/customer-churn-analysis.pbix)
 
