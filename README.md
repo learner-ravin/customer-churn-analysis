@@ -85,36 +85,35 @@ The dataset contains customer-level information for SkyAir Telecom customers, in
 ---
 ### Insights 
 1. **Key Insights**
-   
     - Overall churn rate is **26.54%**, meaning the company is losing **~1 in 4 customers**, which is significantly high.  
     - Churned customers pay **~$15 more per month** (79.65 vs 64.43), indicating higher price sensitivity.  
     - First-year customers have the highest churn (**~47.5%**), which drops to **28.7%** in the second year.
 
     <br>  
-2. **Contract Type**
+3. **Contract Type**
     - Month-to-Month customers have the highest churn (**42.71%**), which is **~15× higher than two-year contracts (2.83%)** and **~4× higher than   one-year contracts (11.27%)**.  
     - Over **50% of the customer base** is on Month-to-Month plans, increasing overall churn risk.
       
     <br>
-3. **Internet Service**
+4. **Internet Service**
     - Fiber optic customers churn at **41.89%**, which is more than **2× DSL customers**.  
     - Fiber is a **premium, high-revenue service**, and nearly half of customers use it—making this a critical risk area.
     <br>
-4. **Payment Method**
+5. **Payment Method**
     - Electronic check users have the highest churn (**45.3%**), nearly **3× higher than auto-pay users (~16%)**.  
     - Customers using **manual payment methods** (electronic or mailed checks) churn more than those on automatic payments.
     <br>
-5. **Customer Tenure**
+6. **Customer Tenure**
     - **47.5% of customers churn within the first year**, meaning 1 in 2 customers leaves early.  
     - The second year still shows relatively high churn (**28.7%**).  
     - Churn rate **consistently decreases with increasing tenure**, indicating stronger retention over time.
     <br>
-6. **Other Services**
+7. **Other Services**
     - Customers without **tech support** have a higher churn rate (**41.64%**).  
     - Customers without **online security** have a higher churn rate (**41.77%**).  
     - No Tech supoort/ No Online Security -> **high churn risk segment**.
     <br>
-7. **Demographics**
+8. **Demographics**
     - **Senior citizens** have higher churn (**41.68%**).  
     - Senior customers without tech support have **~2.5× higher churn** than those with support.  
     - **Single customers (32.96%)** and customer with **no dependents (31.28%)** churn more.  
